@@ -1,0 +1,1 @@
+This is the sample application for [*ruby on rails tutorial*](http://www.railstutorial.org/) by [Michael Hartl]
