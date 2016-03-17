@@ -1,1 +1,2 @@
-This is the sample application for [*ruby on rails tutorial*](http://www.railstutorial.org/) by [Michael Hartl]
+###Twitter clone.
+#####Demo version: https://protected-forest-5504.herokuapp.com/
